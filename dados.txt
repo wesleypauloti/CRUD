@@ -1,0 +1,7 @@
+Segunda,14
+Terca,19
+Quarta,27
+Quinta,23
+Sexta,25
+Sabado,15
+Domingo,16

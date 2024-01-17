@@ -1,0 +1,15 @@
+Relatório do arquivo dados.txt
+
+MEDIDADES E TENDÊNCIA CENTRAL
+
+Temos uma média de 19 registros durante a semana
+Moda: Não há valores repetidos
+A mediana é de 23.00 registros durante a semana
+
+DESVIOS
+
+Valor da Variância: 23.71 registros por semana
+Valor do Desvio Padrão: 4.87 registros por semana
+
+
+Programador resposável: Wesley Paulo
